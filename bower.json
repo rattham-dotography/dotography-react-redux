@@ -1,0 +1,23 @@
+{
+  "name": "scale",
+  "description": "Project by Dotography\r (http://www.dotography.com)",
+  "main": "index.js",
+  "authors": [
+    "Dotography <info@dotography.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap-sass": "~3.3.6"
+  },
+  "devDependencies": {
+  }
+}
