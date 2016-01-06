@@ -1,5 +1,3 @@
-# SCALE
-
 Project by Dotography
 (http://www.dotography.com)
 
@@ -101,6 +99,3 @@ Project by Dotography
 
 > app/dist/
 
-###### Lift webapp directory
-
-> src/main/webapp/
