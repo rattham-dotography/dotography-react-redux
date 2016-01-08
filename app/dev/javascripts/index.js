@@ -1,5 +1,4 @@
 'user strict';
-
 import configureStore from './stores/configureStore'
 import * as actions from './actions/ProjectActions'
 
